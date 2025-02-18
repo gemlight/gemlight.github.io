@@ -2,7 +2,7 @@ Here are links to something done at spare time:
 
 2024-12-09: [PdfOCRer](https://github.com/msmarkgu/PdfOCRer): A Python script that runs Paddle OCR on a possibly unsearchable PDF to make it searchable. 
 
-2025-01-10 [ChinesePatentParser](https://github.com/msmarkgu/ChinesePatentParser): A Python script that can parse a Chinese patent of invention type to extract fields, sections, subsections in it. 
+2025-01-10: [ChinesePatentParser](https://github.com/msmarkgu/ChinesePatentParser): A Python script that can parse a Chinese patent of invention type to extract fields, sections, subsections in it. 
 
 2025-01-20: <a href="https://gemlight.42web.io/PatentAI/patent_analysis.php" target="_blank">PatentAI</a>: An online AI-based Patent Analyzer that can analyze patents, summarize patent claims, evaluate originality (novelty and non-obviousness), compare partents, as well as dtect potential infringement using popular AI models like DeepSeek, Gemini, Llama, and Mistral. It supports English, Chinese, French and Japanese languages. 
 
